@@ -1,0 +1,14 @@
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\bin\Debug\net8.0\APBD_04.exe
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\bin\Debug\net8.0\APBD_04.deps.json
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\bin\Debug\net8.0\APBD_04.runtimeconfig.json
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\bin\Debug\net8.0\APBD_04.dll
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\bin\Debug\net8.0\APBD_04.pdb
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\APBD_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\APBD_04.AssemblyInfoInputs.cache
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\APBD_04.AssemblyInfo.cs
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\APBD_04.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\APBD_04.dll
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\refint\APBD_04.dll
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\APBD_04.pdb
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\APBD_04.genruntimeconfig.cache
+C:\Users\ASRock\OneDrive\Pulpit\Repositories\..other\APBD_04\APBD_04\obj\Debug\net8.0\ref\APBD_04.dll
